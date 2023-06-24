@@ -1,16 +1,24 @@
-# weather_app
+=============================================
+             WEATHER APP README
+=============================================
 
-A new Flutter project.
+Project Details:
+----------------
+This Weather App is a simple Flutter application that allows users to search for weather information and view the current weather conditions as well as a 7-day forecast for a specific location. It fetches weather data from the WeatherAPI and displays it in a user-friendly interface.
 
-## Getting Started
+Project Members:
+----------------
+- Aisyah binti Ahmad (2017484)
+- Nur Faraayuni Sufea binti Mohd Supian (2015002)
+- Nur Syazwana binti Tajuddin (2011242)
 
-This project is a starting point for a Flutter application.
+Instructions:
+-------------------------------------
+Follow the steps below to run through the Weather App on your local machine:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- When the app starts, you will see the Welcome Page.
+- Enter a location in the search field.
+- Click "Search Location" to view the current weather conditions for that location.
+- Click "Forecast" to view the 7-day forecast for the location.
+- If the entered location is invalid or an error occurs, you will be redirected to the Invalid Page.
+- Click "Back" to return to the Welcome Page and perform another search.
